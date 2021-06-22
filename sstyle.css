@@ -1,0 +1,26 @@
+label{
+	font-family: serif;
+	font-style: italic;
+	font-size:25px;
+	color: black;
+	
+
+
+}
+#ll{
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+
+
+#ff{
+	margin: 40px;
+	border-style: double;
+	border-color: grey;
+	background: black;
+	opacity: 0.7;
+	text-align: center;
+
+
+}
